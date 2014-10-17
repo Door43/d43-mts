@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mts:home|Door43 (mts)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mts|d43-mts repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mts/archive/master.zip|d43-mts.zip]]
+
+**Recent Changes**
+{{changes>ns = mts}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mts|Ethnologue data]]
+
